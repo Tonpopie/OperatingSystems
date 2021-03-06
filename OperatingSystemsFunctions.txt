@@ -1,0 +1,3 @@
+1. Operating systems have 3 main functions.
+One being managing computer resources, such as processing units.
+Other devices may include mice, keyboards, printers, and other hardware.
