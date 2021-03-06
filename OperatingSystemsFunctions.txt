@@ -5,3 +5,7 @@ Other devices may include mice, keyboards, printers, and other hardware.
 2. Another function of operating systems is establishing an interface for the user. 
 It will generate a GUI for the user to interact. 
 Without it it would be difficult for people to use.
+
+3. The final function of an operating system is its ability to execute and provide services for software.
+It will manage data and help excecute the code
+Without this function OS's would be pretty dumb.
