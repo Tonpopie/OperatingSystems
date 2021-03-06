@@ -1,3 +1,7 @@
 1. Operating systems have 3 main functions.
 One being managing computer resources, such as processing units.
 Other devices may include mice, keyboards, printers, and other hardware.
+
+2. Another function of operating systems is establishing an interface for the user. 
+It will generate a GUI for the user to interact. 
+Without it it would be difficult for people to use.
